@@ -1,0 +1,5 @@
+# ignore the file of hex
+*.hex
+
+# ignore the file of hex
+*.bin
