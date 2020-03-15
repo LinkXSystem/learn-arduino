@@ -3,3 +3,8 @@
 
 # ignore the file of hex
 *.bin
+
+# the file about nodejs
+
+node_modules
+yarn.lock

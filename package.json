@@ -1,0 +1,22 @@
+{
+  "name": "learn-arduino",
+  "version": "1.0.0",
+  "description": "<div style=\"text-align: center;\">\r   <h1 align=\"center\">Happy coding about Arduino !</h1>\r </div>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LinkXSystem/learn-arduino.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LinkXSystem/learn-arduino/issues"
+  },
+  "homepage": "https://github.com/LinkXSystem/learn-arduino#readme",
+  "dependencies": {
+    "johnny-five": "^1.4.0"
+  }
+}
